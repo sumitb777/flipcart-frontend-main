@@ -10,7 +10,6 @@ const Footer = () => {
                     <div className="d-flex justify-content-evenly  col-md-10  gap-3 col-12 mt-4 ">
 
                         <div className="d-flex flex-column gap-3 mb-5  ">
-
                             <div>
                                 <p className='text-secondary '>ABOUT</p>
                             </div>
